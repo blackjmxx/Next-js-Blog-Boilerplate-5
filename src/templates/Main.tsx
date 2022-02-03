@@ -30,6 +30,11 @@ const Main = (props: IMainProps) => (
               </Link>
             </li>
             <li className="mr-6">
+              <Link href="/toto/">
+                <a>About</a>
+              </Link>
+            </li>
+            <li className="mr-6">
               <Link href="/about/">
                 <a>About</a>
               </Link>
