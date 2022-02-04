@@ -8,10 +8,10 @@ const About = () => (
   <Main meta={<Meta title="Lorem ipsum" description="Lorem ipsum" />}>
     <Content>
       <p>
-       erererererf dfdf
+       `erererererf·dfdf`
       </p>
       <p>
-        fdfdfsfsdf
+        `erererererf·dfdf`
       </p>
     </Content>
   </Main>
